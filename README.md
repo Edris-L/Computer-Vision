@@ -18,6 +18,4 @@ Below is an example of a car iamge being put through the gaussian blue image thr
 
 ## Example Result
 
-<p align="center">
-  <img src="example_result.png" width="700"/>
-</p>
+![Gaussian Blur Example](example_result.png)
