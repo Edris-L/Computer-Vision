@@ -16,6 +16,10 @@ The dataset is small and manually selected to clearly show the visual difference
 
 Below is an example of a car iamge being put through the gaussian blue image through the code. This is one of the many filters in the code.
 
+
 ## Example Result
 
-![Gaussian Blur Example](gaussianblur_example_image.png)
+<p align="center">
+  <img src="data/gaussianblur_example_image.png" width="700"/>
+</p>
+
