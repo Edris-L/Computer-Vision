@@ -4,7 +4,10 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
 (https://colab.research.google.com/github/Edris-L/Computer-Vision/blob/main/FinalProjectUpdated.ipynb)
 
-Dataset Description
+
+To access the Google colab code, please click the link above.
+To observe the code please go to the code folder.
+To observe the report please go to the data folder.
 
 This project uses input images for testing various computer vision filters and transformations.
 
