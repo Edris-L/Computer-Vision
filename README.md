@@ -13,3 +13,11 @@ The images include standard photos (e.g., faces, objects, or natural scenes) use
 All images are used for educational purposes only.
 
 The dataset is small and manually selected to clearly show the visual differences between filters and parameter changes.
+
+Below is an example of a car iamge being put through the gaussian blue image through the code. This is one of the many filters in the code.
+
+## Example Result
+
+<p align="center">
+  <img src="example_result.png" width="700"/>
+</p>
