@@ -1,5 +1,5 @@
 
-# Computer Vision Project
+# Computer Vision Final Project : Instagram Filter (Image Filtering and Enhancement Application)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
 (https://colab.research.google.com/github/Edris-L/Computer-Vision/blob/main/FinalProjectUpdated.ipynb)
